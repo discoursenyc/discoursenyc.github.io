@@ -45,7 +45,7 @@ Simulated will be consisted of six sessions. Each takes on a unique form, such a
 
 Cybernetics Roundtable
 ------------------
-Dec 22, Sat. 7:30 PM                
+2018 Dec 22, Sat. 7:30 PM                
 @ discourse
 
 ![](assets/pictures/cyberneticsposter.jpg)
@@ -55,7 +55,7 @@ poster credit: Hanwen Zhang & Jiajun
 
 2018春节特别辑 之 『年夜饭』
 ------------------------
-Friday 02/16 2019, 7:30 PM          
+Friday 02/16 2018, 7:30 PM          
 @ discourse
 
  ![](assets/pictures/chun-jie-poster.png)
