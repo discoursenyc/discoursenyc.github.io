@@ -1,0 +1,27 @@
+---
+---
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+
+body {
+    background: #E9F0F7;
+    font-size: 16px;
+    color: #101D29;
+    a {
+        color: #D40424;
+    }
+    
+    font-family: 'EB Garamond', serif;
+
+}
+
+.col {
+    vertical-align: text-top;
+    padding: 0.5em 2em;
+    width: 28%;
+    min-width: 300px;
+    display: inline-block;
+}
+img {
+    max-width: 100% !important;
+}
