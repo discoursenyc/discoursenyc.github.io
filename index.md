@@ -19,21 +19,6 @@ Related links: [zzyw studio](http://zzywstudio.com)
 -----------Upcoming-----------
 
 
-_Simulated_
--------------
-
-We are glad to announce our collaboration with SLEEPCENTER this summer to present you the _Simulated_ series as part of SLEEPCENTER's 2019 Summer Public Education program.
-
-**More information upcoming soon!**
-
-
---------Series introduction----------
-
-It seems in a blink of an eye, from struggling to hear each other from afar, we are finding ourselves being trapped inside a collective feedback loop, having difficulties to tell apart our own voices from the others. What are the metrics enabling such rapidly increasing complex and unstable emergence? Can we recognize the irreducibility of the self?
-
-This public education program – Simulated is an attempt to learn from, reflect on, and create conditions for alternative, simulated realities. As personal computing becomes more accessible to the mass today, we welcome individuals beyond institutional settings to realize their newly acquired “superpower”, by examining the complexity of their immediate reality. Through a series of playful workshops, performances, discussions, and interventions, we hope to transform SLEEPCENTER into a cipher of collective knowledge - a set of intuitive and poetic vocabularies that decrypt the complexity of modernization. 
-
-Simulated will be consisted of six sessions. Each takes on a unique form, such as screening of a curated film series, participatory performance, hackathon, the internet black-market, panel of discussion, and an archival exhibition. The distinctive activities offer perspectives and elements that complement each other’s, allowing us to the attempts to simulate alternative coordinates of perception. 
 
 </div>
 
